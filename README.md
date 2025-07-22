@@ -71,25 +71,7 @@ your-project/
 
 ## 📜 License
 [MIT](LICENSE) © [Your Name]
-```
 
----
-
-#### 🔥 3. Advanced Elements & Best Practices
-
-**A. Visual Enhancements**
-```markdown
-<!-- Collapsible sections -->
-<details>
-<summary>🔧 Advanced Configuration</summary>
-  
-```yaml
-# Hidden config details
-api_key: "YOUR_SECRET"
-```
-</details>
-
-<!-- Emoji headings -->
 ## ✅ Testing
 ```
 
